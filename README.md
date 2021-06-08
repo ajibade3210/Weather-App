@@ -8,8 +8,8 @@ This application was developed to CHeck Weather Condition Based On Cities
  
 
  ### Check The App Out 
-- Hosted on Heroku  [Weather-App](link)
-- Heroku Link -link
+- Hosted on Heroku  [Weather-App](https://myweather-appz.herokuapp.com/)
+- Heroku https://myweather-appz.herokuapp.com/
   
 
 ## Tech Stack
@@ -39,5 +39,5 @@ A Server Application
 - Navigate to localhost:5000 in postman or browser to access the application
 
 ### Check The App Out 
-- Hosted on Heroku  [Weather-App](link)
-- Heroku Link -link
+- Hosted on Heroku  [Weather-App](https://myweather-appz.herokuapp.com/)
+- Heroku https://myweather-appz.herokuapp.com/
